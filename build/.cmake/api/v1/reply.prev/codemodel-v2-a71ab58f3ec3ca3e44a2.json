@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "build/src",
+					"jsonFile" : "directory-build.src-Debug-e7e6941f0fbac224c4e2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "build/test",
+					"jsonFile" : "directory-build.test-Debug-6c73e9f3c6ac93b3a1c6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "MyStarWarFuel",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "tests",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "MyStarWarFuel::@1f2133f60341753f7993",
+					"jsonFile" : "target-MyStarWarFuel-Debug-bd48d54965cdd119b389.json",
+					"name" : "MyStarWarFuel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test1::@6569e3db0372c2ce7aa2",
+					"jsonFile" : "target-test1-Debug-83aa58ac20fa7e467f89.json",
+					"name" : "test1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test2::@6569e3db0372c2ce7aa2",
+					"jsonFile" : "target-test2-Debug-b1b60ee3c8309ed2184e.json",
+					"name" : "test2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test3::@6569e3db0372c2ce7aa2",
+					"jsonFile" : "target-test3-Debug-6802fef2e064e33a64cc.json",
+					"name" : "test3",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test4::@6569e3db0372c2ce7aa2",
+					"jsonFile" : "target-test4-Debug-461546b39ce7a480e34d.json",
+					"name" : "test4",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dima/Projects/edu/MyStarWarFuel/build",
+		"source" : "/home/dima/Projects/edu/MyStarWarFuel"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

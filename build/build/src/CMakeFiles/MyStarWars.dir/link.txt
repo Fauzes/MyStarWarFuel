@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libMyStarWars.a CMakeFiles/MyStarWars.dir/MoveComand.cpp.o CMakeFiles/MyStarWars.dir/MyVector.cpp.o CMakeFiles/MyStarWars.dir/MySpaceship.cpp.o CMakeFiles/MyStarWars.dir/IMovingObject.cpp.o CMakeFiles/MyStarWars.dir/MyAngle.cpp.o CMakeFiles/MyStarWars.dir/IRotatingObject.cpp.o CMakeFiles/MyStarWars.dir/RotateComand.cpp.o
+/usr/bin/ranlib ../../lib/libMyStarWars.a
