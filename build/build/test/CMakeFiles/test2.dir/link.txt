@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/test2.dir/test_2_CheckFuelComand_bad.cpp.o -o ../../bin/test2  /usr/lib/x86_64-linux-gnu/libboost_unit_test_framework.so.1.83.0 ../../lib/libMyStarWarFuel.a 

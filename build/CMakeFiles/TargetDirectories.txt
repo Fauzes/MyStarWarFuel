@@ -1,0 +1,14 @@
+/home/dima/Projects/edu/MyStarWarFuel/build/CMakeFiles/test.dir
+/home/dima/Projects/edu/MyStarWarFuel/build/CMakeFiles/edit_cache.dir
+/home/dima/Projects/edu/MyStarWarFuel/build/CMakeFiles/rebuild_cache.dir
+/home/dima/Projects/edu/MyStarWarFuel/build/build/src/CMakeFiles/MyStarWarFuel.dir
+/home/dima/Projects/edu/MyStarWarFuel/build/build/src/CMakeFiles/test.dir
+/home/dima/Projects/edu/MyStarWarFuel/build/build/src/CMakeFiles/edit_cache.dir
+/home/dima/Projects/edu/MyStarWarFuel/build/build/src/CMakeFiles/rebuild_cache.dir
+/home/dima/Projects/edu/MyStarWarFuel/build/build/test/CMakeFiles/test1.dir
+/home/dima/Projects/edu/MyStarWarFuel/build/build/test/CMakeFiles/test2.dir
+/home/dima/Projects/edu/MyStarWarFuel/build/build/test/CMakeFiles/test3.dir
+/home/dima/Projects/edu/MyStarWarFuel/build/build/test/CMakeFiles/test4.dir
+/home/dima/Projects/edu/MyStarWarFuel/build/build/test/CMakeFiles/test.dir
+/home/dima/Projects/edu/MyStarWarFuel/build/build/test/CMakeFiles/edit_cache.dir
+/home/dima/Projects/edu/MyStarWarFuel/build/build/test/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/MoveComand.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/MoveComand.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/MoveComand.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/MoveComand.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/MyVector.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/MyVector.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/MyVector.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/MyVector.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/MySpaceship.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/MySpaceship.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/MySpaceship.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/MySpaceship.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/IMovingObject.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/IMovingObject.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/IMovingObject.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/IMovingObject.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/MyAngle.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/MyAngle.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/MyAngle.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/MyAngle.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/IRotatingObject.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/IRotatingObject.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/IRotatingObject.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/IRotatingObject.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/RotateComand.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/RotateComand.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/RotateComand.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/RotateComand.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/BurnFueldComand.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/BurnFueldComand.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/BurnFueldComand.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/BurnFueldComand.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/CheckFuelComand.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/CheckFuelComand.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/CheckFuelComand.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/CheckFuelComand.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/ComandExeption.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/ComandExeption.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/ComandExeption.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/ComandExeption.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/IFuelObject.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/IFuelObject.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/IFuelObject.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/IFuelObject.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/Icommand.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/Icommand.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/Icommand.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/Icommand.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/comandhendlerex.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/comandhendlerex.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/comandhendlerex.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/comandhendlerex.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/comandwritelog.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/comandwritelog.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/comandwritelog.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/comandwritelog.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/logCntr.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/logCntr.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/logCntr.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/logCntr.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/MyStarWarFuel.dir/MacroComand.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/src/MacroComand.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/src/MacroComand.cpp",
+  "output": "build/src/CMakeFiles/MyStarWarFuel.dir/MacroComand.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/test",
+  "command": "/usr/bin/g++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/test1.dir/test_1_CheckFuelComand_good.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/test/test_1_CheckFuelComand_good.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/test/test_1_CheckFuelComand_good.cpp",
+  "output": "build/test/CMakeFiles/test1.dir/test_1_CheckFuelComand_good.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/test",
+  "command": "/usr/bin/g++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/test2.dir/test_2_CheckFuelComand_bad.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/test/test_2_CheckFuelComand_bad.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/test/test_2_CheckFuelComand_bad.cpp",
+  "output": "build/test/CMakeFiles/test2.dir/test_2_CheckFuelComand_bad.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/test",
+  "command": "/usr/bin/g++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/test3.dir/test_3_BurnFuelComand.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/test/test_3_BurnFuelComand.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/test/test_3_BurnFuelComand.cpp",
+  "output": "build/test/CMakeFiles/test3.dir/test_3_BurnFuelComand.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/MyStarWarFuel/build/build/test",
+  "command": "/usr/bin/g++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/dima/Projects/edu/MyStarWarFuel/inc -g -std=gnu++11 -fdiagnostics-color=always -o CMakeFiles/test4.dir/test_4_MacroComand.cpp.o -c /home/dima/Projects/edu/MyStarWarFuel/test/test_4_MacroComand.cpp",
+  "file": "/home/dima/Projects/edu/MyStarWarFuel/test/test_4_MacroComand.cpp",
+  "output": "build/test/CMakeFiles/test4.dir/test_4_MacroComand.cpp.o"
+}
+]

@@ -1,0 +1,22 @@
+Start testing: Jul 25 23:42 MSK
+----------------------------------------------------------
+4/4 Testing: Test4
+4/4 Test: Test4
+Command: "/home/dima/Projects/edu/MyStarWarFuel/build/bin/test4"
+Directory: /home/dima/Projects/edu/MyStarWarFuel/build/build/test
+"Test4" start time: Jul 25 23:42 MSK
+Output:
+----------------------------------------------------------
+Running 1 test case...
+
+[1;32;49m*** No errors detected
+[0;39;49m
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Test4" end time: Jul 25 23:42 MSK
+"Test4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 25 23:42 MSK

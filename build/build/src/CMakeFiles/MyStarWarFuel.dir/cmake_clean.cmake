@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "../../lib/libMyStarWarFuel.a"
+  "../../lib/libMyStarWarFuel.pdb"
+  "CMakeFiles/MyStarWarFuel.dir/BurnFueldComand.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/BurnFueldComand.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/CheckFuelComand.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/CheckFuelComand.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/ComandExeption.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/ComandExeption.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/IFuelObject.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/IFuelObject.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/IMovingObject.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/IMovingObject.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/IRotatingObject.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/IRotatingObject.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/Icommand.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/Icommand.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/MacroComand.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/MacroComand.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/MoveComand.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/MoveComand.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/MyAngle.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/MyAngle.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/MySpaceship.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/MySpaceship.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/MyVector.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/MyVector.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/RotateComand.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/RotateComand.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/comandhendlerex.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/comandhendlerex.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/comandwritelog.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/comandwritelog.cpp.o.d"
+  "CMakeFiles/MyStarWarFuel.dir/logCntr.cpp.o"
+  "CMakeFiles/MyStarWarFuel.dir/logCntr.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/MyStarWarFuel.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

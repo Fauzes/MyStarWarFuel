@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/test3.dir/test_3_BurnFuelComand.cpp.o -o ../../bin/test3  /usr/lib/x86_64-linux-gnu/libboost_unit_test_framework.so.1.83.0 ../../lib/libMyStarWarFuel.a 

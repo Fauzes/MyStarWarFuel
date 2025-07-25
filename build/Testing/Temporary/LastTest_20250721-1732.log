@@ -1,0 +1,24 @@
+Start testing: Jul 21 23:12 MSK
+----------------------------------------------------------
+2/3 Testing: Test2
+2/3 Test: Test2
+Command: "/home/dima/Projects/edu/MyStarWarFuel/build/bin/test2"
+Directory: /home/dima/Projects/edu/MyStarWarFuel/build/build/test
+"Test2" start time: Jul 21 23:12 MSK
+Output:
+----------------------------------------------------------
+Running 1 test case...
+unknown location(0): [4;31;49mfatal error: in "test2/test2": C string: Error not fuel[0;39;49m
+/home/dima/Projects/edu/MyStarWarFuel/test/test_2_CheckFuelComand_bad.cpp(18): [1;36;49mlast checkpoint: "test2" test entry[0;39;49m
+
+[1;31;49m*** 1 failure is detected in the test module "MyStarWarFuel"
+[0;39;49m
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Failed.
+"Test2" end time: Jul 21 23:12 MSK
+"Test2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 21 23:12 MSK
